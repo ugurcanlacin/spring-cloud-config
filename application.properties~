@@ -41,6 +41,7 @@ spring.jpa.generate-ddl=true
 endpoints.shutdown.enabled=true
 
 spring.jpa.generate-ddl=true
+spring.cloud.config.enabled= true
 
 
 ## Rabbit specific binder bits
