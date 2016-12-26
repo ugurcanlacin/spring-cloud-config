@@ -15,5 +15,5 @@ logging:
 
 zuul:
   host:
-    socketTimeoutMillis: 30000
-    connectTimeoutMillis: 30000
+    socketTimeoutMillis: 100
+    connectTimeoutMillis: 100
